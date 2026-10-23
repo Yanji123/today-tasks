@@ -1,0 +1,15 @@
+# Local task data and backups
+tasks.json
+tasks.json.*
+# Local preferences
+appearance.json
+sorting.json
+window.json
+# Diagnostics and editor files
+*.log
+*.tmp
+*.bak
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
